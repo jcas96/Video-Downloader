@@ -1,0 +1,28 @@
+p{
+    color:#355169;
+    text-align: center;
+}
+
+button{
+    height: 22px;
+    margin-left: 45vw;
+    margin-right: 45vw;
+    color:rgb(104, 17, 17);
+}
+#top-border{
+    width: 100vw;
+    height:3vh;
+    background-color: #343434;
+}
+
+#mid-border{
+    width: 100vw;
+    height:7vh;
+    background-color: #3E8EDE;
+}
+#main-border{
+    margin-top:-16px;
+    width:100vw;
+    height:93vh;
+    background-color: #E1E0E0;
+}
